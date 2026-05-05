@@ -110,7 +110,12 @@ def verificar_par_impar(numero):
 
 > 💡 *A lógica foi condensada em uma linha com expressão ternária — sugestão típica do GitHub Copilot para código mais pythônico.*
 
+**Exemplo de saída:**
+
+<img width="436" height="228" alt="image" src="https://github.com/user-attachments/assets/c5ca84ad-558c-4d8c-ac62-e6ce8885f0a3" />
+
 ---
+
 
 ### 📚 Etapa 5 — Calculando Média de Notas
 
@@ -133,6 +138,8 @@ def verificar_par_impar(numero):
 def calcular_media(notas):
     return sum(notas) / len(notas)
 ```
+**Exemplo de saída:**
+<img width="367" height="432" alt="image" src="https://github.com/user-attachments/assets/11b206d3-82e3-44b1-a778-4f8472037b34" />
 
 ---
 
@@ -156,6 +163,9 @@ def eh_palindromo(texto):
 > 💡 *A normalização do texto permite detectar palíndromos em frases como "Amor à Roma", não apenas em palavras simples.*
 
 ---
+**Exemplo de saída:**
+<img width="592" height="457" alt="image" src="https://github.com/user-attachments/assets/8f13100c-0c56-4961-aeae-2dd2cc2d87f6" />
+
 
 ## 🛠️ Como Executar
 
