@@ -28,7 +28,7 @@ DIO_desafio_Utilizando-as-Ferramentas-do-GitHub-para-Solucionar-Algoritmos-em-Py
 │
 ├── 📁 resolucoes_de_code/
 │   ├── 🐾 1_concat_dados.py
-│   ├── ✏️  2_repet_txt.py
+│   ├── ✏️ 2_repet_txt.py
 │   ├── 📐 3_ope_math.py
 │   ├── 🧮 4_verificar_par_impar.py
 │   ├── 📚 5_medias_de_notas.py
