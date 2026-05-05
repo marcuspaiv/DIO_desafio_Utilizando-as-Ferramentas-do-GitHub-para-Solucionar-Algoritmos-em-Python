@@ -217,7 +217,7 @@ python nome_do_arquivo.py
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcuspaiv)
 
-*Desenvolvido durante o bootcamp da [DIO](https://www.dio.me/) 🚀*
+*Desenvolvido durante o curso Formação Github Certification da [DIO](https://www.dio.me/) 🚀*
 
 </div>
 
